@@ -14,11 +14,13 @@ public class Controller {
     @Autowired
     Service service;
 
+
     @RequestMapping
     public NumberOfSymbols getData(
             @RequestParam(name = "string") String string,
             @RequestParam(name = "symbol") Character symbol
     ) {
+
         return service.calculateSymbol(string, symbol);
     }
 }
