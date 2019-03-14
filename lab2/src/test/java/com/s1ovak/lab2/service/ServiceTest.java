@@ -23,5 +23,10 @@ public class ServiceTest {
         Entity actual = new Entity(4);
 
         Assert.assertEquals(expected.getNumber(), actual.getNumber());
+
+        expected = service.calculateSymbol("asdjhfjgasfhraa","a");
+        actual.setNumber(5);
+
+        Assert.assertNotEquals(expected, actual);
     }
 }

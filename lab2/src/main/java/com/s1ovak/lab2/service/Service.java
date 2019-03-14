@@ -16,10 +16,11 @@ public class Service {
         if (logger.isDebugEnabled()) {
             logger.debug("getEntity method is called!");
         }
-        if (string == null) {
+        if (string == null || string.equals("")) {
             return isError("Invalid params! Need parameter string");
         }
-        if (symbol == null) {
+
+        if (symbol == null || symbol.equals("")) {
             return isError("Invalid params! Need parameter symbol");
         }
 
