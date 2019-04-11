@@ -43,7 +43,6 @@ public class ControllerTest {
         mvc.perform(get("/api/programm?string=aasdkljgslkjaa&symbol=a")
         .contentType(MediaType.APPLICATION_JSON))
         .andExpect(status().isOk());
-
     }
 
     @Test

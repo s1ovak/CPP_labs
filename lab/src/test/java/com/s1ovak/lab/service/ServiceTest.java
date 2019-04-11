@@ -10,10 +10,7 @@ public class ServiceTest {
 
     Service service;
 
-    @Before
-    public void init() {
-        service = new Service();
-    }
+
 
     @Test
     public void calculateSymbol() {

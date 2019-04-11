@@ -1,13 +1,12 @@
 package com.s1ovak.lab.controller;
 
+import com.s1ovak.lab.entity.Answers;
 import com.s1ovak.lab.entity.Entity;
+import com.s1ovak.lab.entity.InputList;
 import com.s1ovak.lab.service.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("api/programm")
@@ -20,7 +19,7 @@ public class Controller {
         this.service = service;
     }
 
-    @RequestMapping(value = "", method = RequestMethod.GET)
+    @GetMapping(value = "")
     public ResponseEntity<?> getEntity(
             @RequestParam(name = "string", required = false) String string,
             @RequestParam(name = "symbol", required = false) String symbol
@@ -33,5 +32,11 @@ public class Controller {
             return ResponseEntity.status(400).body(entity);
 
         return ResponseEntity.ok(entity);
+    }
+
+
+    @PostMapping
+    public Answers check(@RequestBody InputList list){
+        return service.checkList(list);
     }
 }
