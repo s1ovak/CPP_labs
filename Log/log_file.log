@@ -1,92 +1,1937 @@
-2019-03-13 21:13:02 DEBUG Controller:17 - getEntity method is called!
-2019-03-13 21:13:02 DEBUG Controller:31 - getEntity method is successfully completed
-2019-03-14 08:34:15 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:34:15 DEBUG Controller:31 - getEntity method is successfully completed
-2019-03-14 08:34:16 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:34:16 ERROR Controller:50 - Invalid params! Need parameter string
-2019-03-14 08:34:16 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:34:16 DEBUG Controller:31 - getEntity method is successfully completed
-2019-03-14 08:36:55 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:36:55 DEBUG Controller:31 - getEntity method is successfully completed
-2019-03-14 08:38:32 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:38:32 ERROR Controller:51 - Invalid params! Need parameter string
-2019-03-14 08:38:52 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:38:52 ERROR Controller:51 - Invalid params! Need parameter string
-2019-03-14 08:40:50 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:40:50 DEBUG Controller:32 - getEntity method is successfully completed
-2019-03-14 08:40:50 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:40:50 ERROR Controller:51 - Invalid params! Need parameter symbol
-2019-03-14 08:40:50 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:40:50 ERROR Controller:51 - Invalid params! Need parameter string
-2019-03-14 08:40:50 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:40:50 DEBUG Controller:32 - getEntity method is successfully completed
-2019-03-14 08:42:08 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:42:08 DEBUG Controller:32 - getEntity method is successfully completed
-2019-03-14 08:42:16 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:42:16 DEBUG Controller:32 - getEntity method is successfully completed
-2019-03-14 08:42:16 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:42:16 ERROR Controller:51 - Invalid params! Need parameter symbol
-2019-03-14 08:42:16 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:42:16 ERROR Controller:51 - Invalid params! Need parameter string
-2019-03-14 08:42:16 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:42:16 ERROR Controller:51 - Invalid params! Param symbol must be char
-2019-03-14 08:42:16 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:42:16 DEBUG Controller:32 - getEntity method is successfully completed
-2019-03-14 08:53:58 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:53:58 DEBUG Controller:32 - getEntity method is successfully completed
-2019-03-14 08:53:58 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:53:58 ERROR Controller:51 - Invalid params! Need parameter symbol
-2019-03-14 08:53:58 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:53:58 ERROR Controller:51 - Invalid params! Need parameter string
-2019-03-14 08:53:58 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:53:58 ERROR Controller:51 - Invalid params! Param symbol must be char
-2019-03-14 08:53:58 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 08:53:58 DEBUG Controller:32 - getEntity method is successfully completed
-2019-03-14 09:21:30 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 09:21:30 DEBUG Controller:32 - getEntity method is successfully completed
-2019-03-14 09:21:30 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 09:21:30 ERROR Controller:51 - Invalid params! Need parameter symbol
-2019-03-14 09:21:30 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 09:21:30 ERROR Controller:51 - Invalid params! Need parameter string
-2019-03-14 09:21:30 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 09:21:30 ERROR Controller:51 - Invalid params! Param symbol must be char
-2019-03-14 09:21:30 DEBUG Controller:17 - getEntity method is called!
-2019-03-14 09:21:30 DEBUG Controller:32 - getEntity method is successfully completed
-2019-03-27 22:23:37 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:23:37 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:23:37 INFO  CacheMap:23 - Component added into cache
-2019-03-27 22:29:25 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:29:25 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:29:25 INFO  CacheMap:23 - Component added into cache
-2019-03-27 22:29:49 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:29:49 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:29:50 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:29:50 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:30:13 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:30:13 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:30:13 INFO  CacheMap:23 - Component added into cache
-2019-03-27 22:30:49 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:30:49 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:31:00 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:31:00 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:31:00 INFO  CacheMap:23 - Component added into cache
-2019-03-27 22:32:28 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:32:28 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:32:28 INFO  CacheMap:23 - Component added into cache
-2019-03-27 22:32:38 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:32:38 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:32:55 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:32:55 ERROR Service:79 - Invalid params! Need parameter symbol
-2019-03-27 22:34:24 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:34:24 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:34:24 INFO  CacheMap:23 - Component added into cache
-2019-03-27 22:34:31 DEBUG Service:35 - getEntity method is called!
-2019-03-27 22:34:31 DEBUG Service:50 - getEntity method is successfully completed
-2019-03-27 22:47:39 DEBUG Service:34 - getEntity method is called!
-2019-03-27 22:47:39 DEBUG Service:49 - getEntity method is successfully completed
-2019-03-27 22:47:39 INFO  CacheMap:22 - Component added into cache
-2019-03-27 22:47:48 DEBUG Service:34 - getEntity method is called!
-2019-03-27 22:47:48 DEBUG Service:49 - getEntity method is successfully completed
-2019-03-27 22:48:54 DEBUG Service:34 - getEntity method is called!
-2019-03-27 22:48:54 DEBUG Service:49 - getEntity method is successfully completed
-2019-03-27 22:48:54 INFO  CacheMap:22 - Component added into cache
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 429
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 430
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 431
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 432
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 433
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 434
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 435
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 436
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 437
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 438
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 439
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 440
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 441
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 442
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 443
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 444
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 445
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 446
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 447
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 448
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 449
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 450
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 451
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 452
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 453
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 454
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 455
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 456
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 457
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 458
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 459
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 460
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 461
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 462
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 463
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 464
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 465
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 466
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 467
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 468
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 469
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 470
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 471
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 472
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 473
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 474
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 475
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 476
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 477
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 478
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 479
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 480
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 481
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 482
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 483
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 484
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 485
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 486
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 487
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 488
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 489
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 490
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 491
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 492
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 493
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 494
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 495
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 496
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 497
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 498
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 499
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 500
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 501
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 502
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 503
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 504
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 505
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 506
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 507
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 508
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 509
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 510
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 511
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 512
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 513
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 514
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 515
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 516
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 517
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 518
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 519
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 520
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 521
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 522
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 523
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 524
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 525
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 526
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 527
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 528
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 529
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 530
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 531
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 532
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 533
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 534
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 535
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 536
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 537
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 538
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 539
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 540
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 541
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 542
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 543
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 544
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 545
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 546
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 547
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 548
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 549
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 550
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 551
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 552
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 553
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 554
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 555
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 556
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 557
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 558
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 559
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 560
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 561
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 562
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 563
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 564
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 565
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 566
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 567
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 568
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 569
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 570
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 571
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 572
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 573
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 574
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 575
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 576
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 577
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 578
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 579
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 580
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 581
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 582
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 583
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 584
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 585
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 586
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 587
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 588
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 589
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 590
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 591
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 592
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 593
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 594
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 595
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 596
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 597
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 598
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 599
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 600
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 601
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 602
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 603
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 604
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 605
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 606
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 607
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 608
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 609
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 610
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 611
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 612
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 613
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 614
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 615
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 616
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 617
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 618
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 619
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 620
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 621
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 622
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 623
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 624
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 625
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 626
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 627
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 628
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 629
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 630
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 631
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 632
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 633
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 634
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 635
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 636
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 637
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 638
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 639
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 640
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 641
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 642
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 643
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 644
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 645
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 646
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 647
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 648
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 649
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 650
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 651
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 652
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 653
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 654
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 655
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 656
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 657
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 658
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 659
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 660
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 661
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 662
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 663
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 664
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 665
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 666
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 667
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 668
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 669
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 670
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 671
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 672
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 673
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 674
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 675
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 676
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 677
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 678
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 679
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 680
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 681
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 682
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 683
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 684
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 685
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 686
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 687
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 688
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 689
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 690
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 691
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 692
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 693
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 694
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 695
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 696
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 697
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 698
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 699
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 700
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 701
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 702
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 703
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 704
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 705
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 706
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 707
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 708
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 709
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 710
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 711
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 712
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 713
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 714
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 715
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 716
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 717
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 718
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 719
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 720
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 721
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 722
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 723
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 724
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 725
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 726
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 727
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 728
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 729
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 730
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 731
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 732
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:51 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:51 INFO  Service:72 - Incremented count, current: 733
+2019-03-30 08:39:51 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 734
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 735
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 736
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 737
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 738
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 739
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 740
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 741
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 742
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 743
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 744
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 745
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 746
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 747
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 748
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 749
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 750
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 751
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 752
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 753
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 754
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 755
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 756
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 757
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 758
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 759
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 760
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 761
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 762
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 763
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 764
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 765
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 766
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 767
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 768
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 769
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 770
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 771
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 772
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 773
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 774
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 775
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 776
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 777
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 778
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 779
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 780
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 781
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 782
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 783
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 784
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 785
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 786
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 787
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 788
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 789
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 790
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 791
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 792
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 793
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 794
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 795
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 796
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 797
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 798
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 799
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 800
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 801
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 DEBUG Service:38 - getEntity method is called!
+2019-03-30 08:39:52 DEBUG Service:53 - getEntity method is successfully completed
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 802
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 803
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 804
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 805
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 806
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 807
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 808
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 809
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 810
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 811
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 812
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 813
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 814
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 815
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 816
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 817
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 818
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 819
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 820
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 821
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 822
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 823
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 824
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 825
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 826
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 827
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 828
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 829
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 830
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 831
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 832
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 833
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 834
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 835
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 836
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 837
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 838
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 839
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 840
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 841
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 842
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 843
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 844
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 845
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 846
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 847
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 848
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 849
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 850
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 851
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 852
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 853
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 854
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 855
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 856
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 857
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 858
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 859
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 860
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 861
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 862
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 863
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 864
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 865
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 866
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 867
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 868
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 869
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 870
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 871
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 872
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 873
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 874
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 875
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 876
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 877
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 878
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 879
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 880
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 881
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 882
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 883
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 884
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 885
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 886
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 887
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 888
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 889
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 890
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 891
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 892
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 893
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 894
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 895
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 896
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 897
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 898
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 899
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 900
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 901
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 902
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 903
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 904
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 905
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 906
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 907
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 908
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 909
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 910
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 911
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 912
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 913
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 914
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 915
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 916
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 917
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 918
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 919
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 920
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 921
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 922
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 923
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 924
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 925
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 926
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 927
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 928
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 929
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 930
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 931
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 932
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 933
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 934
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 935
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 936
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 937
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 938
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 939
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 940
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 941
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 942
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 943
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 944
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 945
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 946
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 947
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 948
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 949
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 950
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 951
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 952
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 953
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 954
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 955
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 956
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 957
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 958
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 959
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 960
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 961
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 962
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 963
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 964
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 965
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 966
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 967
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 968
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 969
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 970
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 971
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 972
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 973
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 974
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 975
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 976
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 977
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 978
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 979
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 980
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 981
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 982
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 983
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 984
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 985
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 986
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 987
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 988
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 989
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 990
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 991
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 992
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 993
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 994
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 995
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 996
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 997
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 998
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 999
+2019-03-30 08:39:52 INFO  Service:72 - Incremented count, current: 1000
+2019-04-24 23:23:10 DEBUG Service:46 - getEntity method is called!
+2019-04-24 23:23:10 DEBUG Service:61 - getEntity method is successfully completed
+2019-04-24 23:23:10 INFO  Service:80 - Incremented count, current: 1
+2019-04-24 23:23:10 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:23:10 DEBUG Service:46 - getEntity method is called!
+2019-04-24 23:23:10 DEBUG Service:61 - getEntity method is successfully completed
+2019-04-24 23:23:10 INFO  Service:80 - Incremented count, current: 2
+2019-04-24 23:23:10 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:23:10 DEBUG Service:46 - getEntity method is called!
+2019-04-24 23:23:10 DEBUG Service:61 - getEntity method is successfully completed
+2019-04-24 23:23:10 INFO  Service:80 - Incremented count, current: 3
+2019-04-24 23:23:10 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:25:41 DEBUG Service:46 - getEntity method is called!
+2019-04-24 23:25:41 DEBUG Service:61 - getEntity method is successfully completed
+2019-04-24 23:25:41 INFO  Service:80 - Incremented count, current: 1
+2019-04-24 23:25:41 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:25:41 DEBUG Service:46 - getEntity method is called!
+2019-04-24 23:25:41 DEBUG Service:61 - getEntity method is successfully completed
+2019-04-24 23:25:41 INFO  Service:80 - Incremented count, current: 2
+2019-04-24 23:25:41 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:25:41 DEBUG Service:46 - getEntity method is called!
+2019-04-24 23:25:41 DEBUG Service:61 - getEntity method is successfully completed
+2019-04-24 23:25:41 INFO  Service:80 - Incremented count, current: 3
+2019-04-24 23:25:41 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:25:58 DEBUG Service:46 - getEntity method is called!
+2019-04-24 23:25:58 DEBUG Service:61 - getEntity method is successfully completed
+2019-04-24 23:25:58 INFO  Service:80 - Incremented count, current: 4
+2019-04-24 23:25:58 DEBUG Service:46 - getEntity method is called!
+2019-04-24 23:25:58 DEBUG Service:61 - getEntity method is successfully completed
+2019-04-24 23:25:58 INFO  Service:80 - Incremented count, current: 5
+2019-04-24 23:25:58 DEBUG Service:46 - getEntity method is called!
+2019-04-24 23:25:58 ERROR Service:96 - Invalid params! Param symbol must be char
+2019-04-24 23:32:50 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:32:51 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-24 23:32:51 INFO  Service:81 - Incremented count, current: 1
+2019-04-24 23:32:51 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:32:51 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:32:51 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-24 23:32:51 INFO  Service:81 - Incremented count, current: 2
+2019-04-24 23:32:51 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:32:51 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:32:51 ERROR Service:97 - Invalid params! Param symbol must be char
+2019-04-24 23:36:30 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:36:30 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-24 23:36:30 INFO  Service:81 - Incremented count, current: 1
+2019-04-24 23:36:30 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:36:30 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:36:30 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-24 23:36:30 INFO  Service:81 - Incremented count, current: 2
+2019-04-24 23:36:30 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:36:30 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:36:30 ERROR Service:97 - Invalid params! Param symbol must be char
+2019-04-24 23:39:41 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:39:41 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-24 23:39:41 INFO  Service:81 - Incremented count, current: 1
+2019-04-24 23:39:41 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:39:41 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:39:41 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-24 23:39:41 INFO  Service:81 - Incremented count, current: 2
+2019-04-24 23:39:41 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:39:41 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:39:41 ERROR Service:97 - Invalid params! Param symbol must be char
+2019-04-24 23:40:06 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:40:06 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-24 23:40:06 INFO  Service:81 - Incremented count, current: 3
+2019-04-24 23:40:06 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:40:06 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-24 23:40:06 INFO  Service:81 - Incremented count, current: 4
+2019-04-24 23:40:06 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:40:06 ERROR Service:97 - Invalid params! Param symbol must be char
+2019-04-24 23:40:06 DEBUG Service:47 - getEntity method is called!
+2019-04-24 23:40:06 ERROR Service:97 - Invalid params! Need parameter string
+2019-04-24 23:49:39 DEBUG Service:48 - getEntity method is called!
+2019-04-24 23:49:39 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-24 23:49:39 INFO  Service:82 - Incremented count, current: 1
+2019-04-24 23:49:39 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:49:39 DEBUG Service:48 - getEntity method is called!
+2019-04-24 23:49:39 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-24 23:49:39 INFO  Service:82 - Incremented count, current: 2
+2019-04-24 23:49:39 INFO  CacheMap:22 - Component added into cache
+2019-04-24 23:49:39 DEBUG Service:48 - getEntity method is called!
+2019-04-24 23:49:39 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-24 23:49:39 DEBUG Service:48 - getEntity method is called!
+2019-04-24 23:49:39 ERROR Service:98 - Invalid params! Need parameter string
+2019-04-25 00:01:28 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:01:28 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:01:28 INFO  Service:82 - Incremented count, current: 1
+2019-04-25 00:01:28 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:01:28 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:01:28 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:01:28 INFO  Service:82 - Incremented count, current: 2
+2019-04-25 00:01:28 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:01:28 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:01:28 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:01:28 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:01:28 ERROR Service:98 - Invalid params! Need parameter string
+2019-04-25 00:01:50 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:01:50 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:01:50 INFO  Service:82 - Incremented count, current: 3
+2019-04-25 00:01:50 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:01:50 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:01:50 INFO  Service:82 - Incremented count, current: 4
+2019-04-25 00:01:50 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:01:50 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:01:50 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:01:50 ERROR Service:98 - Invalid params! Need parameter string
+2019-04-25 00:01:50 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:01:50 ERROR Service:98 - Invalid params! Need parameter string
+2019-04-25 00:02:25 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:25 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:02:25 INFO  Service:82 - Incremented count, current: 5
+2019-04-25 00:02:25 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:25 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:02:25 INFO  Service:82 - Incremented count, current: 6
+2019-04-25 00:02:25 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:25 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:02:25 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:25 ERROR Service:98 - Invalid params! Need parameter string
+2019-04-25 00:02:25 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:25 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:02:25 INFO  Service:82 - Incremented count, current: 7
+2019-04-25 00:02:25 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:02:56 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:56 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:02:56 INFO  Service:82 - Incremented count, current: 1
+2019-04-25 00:02:56 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:02:56 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:56 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:02:56 INFO  Service:82 - Incremented count, current: 2
+2019-04-25 00:02:56 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:02:56 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:56 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:02:56 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:56 ERROR Service:98 - Invalid params! Need parameter string
+2019-04-25 00:02:56 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:02:56 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:02:56 INFO  Service:82 - Incremented count, current: 3
+2019-04-25 00:02:56 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:03:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:03:43 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:03:43 INFO  Service:82 - Incremented count, current: 4
+2019-04-25 00:03:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:03:43 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:03:43 INFO  Service:82 - Incremented count, current: 5
+2019-04-25 00:03:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:03:43 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:03:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:03:43 ERROR Service:98 - Invalid params! Need parameter string
+2019-04-25 00:03:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:03:43 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:08:55 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:08:55 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:08:55 INFO  Service:82 - Incremented count, current: 1
+2019-04-25 00:08:55 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:08:55 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:08:55 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:08:55 INFO  Service:82 - Incremented count, current: 2
+2019-04-25 00:08:55 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:08:55 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:08:55 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:08:55 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:08:55 ERROR Service:98 - Invalid params! Need parameter string
+2019-04-25 00:08:55 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:08:55 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:21:42 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:42 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:21:42 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 00:21:42 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:21:42 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:42 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:21:42 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 00:21:42 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:21:42 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:42 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:21:42 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:42 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 00:21:42 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:42 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:21:47 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:47 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:21:47 INFO  Service:83 - Incremented count, current: 3
+2019-04-25 00:21:47 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:47 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:21:47 INFO  Service:83 - Incremented count, current: 4
+2019-04-25 00:21:47 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:47 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:21:47 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:47 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 00:21:47 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:21:47 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:24:53 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:24:53 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:24:53 INFO  Service:83 - Incremented count, current: 5
+2019-04-25 00:24:53 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:24:53 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:24:53 INFO  Service:83 - Incremented count, current: 6
+2019-04-25 00:24:53 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:24:53 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:24:53 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:24:53 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 00:24:53 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:24:53 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:26:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:26:43 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:26:43 INFO  Service:82 - Incremented count, current: 1
+2019-04-25 00:26:43 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:26:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:26:43 DEBUG Service:63 - getEntity method is successfully completed
+2019-04-25 00:26:43 INFO  Service:82 - Incremented count, current: 2
+2019-04-25 00:26:43 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:26:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:26:43 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:26:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:26:43 ERROR Service:98 - Invalid params! Need parameter string
+2019-04-25 00:26:43 DEBUG Service:48 - getEntity method is called!
+2019-04-25 00:26:43 ERROR Service:98 - Invalid params! Param symbol must be char
+2019-04-25 00:30:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:30:14 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:30:14 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 00:30:14 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:30:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:30:14 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:30:14 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 00:30:14 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:30:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:30:14 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:30:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:30:14 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 00:30:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:30:14 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:48:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:48:38 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:48:38 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 00:48:38 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:48:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:48:38 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:48:38 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 00:48:38 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:48:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:48:38 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:48:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:48:38 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 00:48:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:48:38 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:52:49 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:52:49 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:52:49 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 00:52:49 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:52:49 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:52:49 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:52:49 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 00:52:49 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:52:49 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:52:49 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:52:49 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:52:49 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 00:52:49 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:52:49 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:54:31 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:54:31 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:54:31 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 00:54:31 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:54:31 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:54:31 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:54:31 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 00:54:31 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:54:31 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:54:31 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:54:31 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:54:31 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 00:54:31 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:54:31 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:55:22 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:55:22 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:55:22 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 00:55:22 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:55:22 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:55:22 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:55:22 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 00:55:22 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:59:04 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:59:04 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:59:04 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 00:59:04 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:59:04 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:59:04 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 00:59:04 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 00:59:04 INFO  CacheMap:22 - Component added into cache
+2019-04-25 00:59:04 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:59:04 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 00:59:04 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:59:04 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 00:59:04 DEBUG Service:49 - getEntity method is called!
+2019-04-25 00:59:04 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:26:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:26:46 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:26:46 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:26:46 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:26:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:26:46 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:26:46 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:26:46 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:26:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:26:46 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:26:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:26:46 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:26:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:26:46 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:30:19 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:30:19 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:30:19 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:30:19 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:30:19 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:30:19 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:30:19 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:30:19 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:30:19 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:30:19 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:30:19 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:30:19 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:30:19 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:30:19 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:42:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:42:38 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:42:38 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:42:38 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:42:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:42:38 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:42:38 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:42:38 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:42:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:42:38 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:42:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:42:38 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:42:38 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:42:38 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:44:00 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:44:00 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:44:00 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:44:00 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:44:00 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:44:00 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:44:00 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:44:00 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:44:00 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:44:00 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:44:00 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:44:00 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:44:00 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:44:00 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:45:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:45:16 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:45:16 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:45:16 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:45:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:45:16 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:45:16 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:45:16 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:45:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:45:16 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:45:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:45:16 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:45:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:45:16 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:46:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:46:06 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:46:06 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:46:06 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:46:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:46:06 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:46:06 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:46:06 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:46:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:46:06 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:46:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:46:06 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:46:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:46:06 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:47:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:47:16 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:47:16 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:47:16 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:47:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:47:16 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:47:16 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:47:16 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:47:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:47:16 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:47:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:47:16 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:47:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:47:16 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:49:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:49:16 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:49:16 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:49:16 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:49:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:49:16 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:49:16 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:49:16 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:49:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:49:16 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:49:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:49:16 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:49:16 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:49:16 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:50:25 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:50:25 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:50:25 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:50:25 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:50:25 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:50:25 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:50:25 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:50:25 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:50:25 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:50:25 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:50:25 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:50:25 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:50:25 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:50:25 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:51:23 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:51:23 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:51:23 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 01:51:23 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:51:23 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:51:23 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 01:51:23 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 01:51:23 INFO  CacheMap:22 - Component added into cache
+2019-04-25 01:51:23 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:51:23 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 01:51:23 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:51:23 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 01:51:23 DEBUG Service:49 - getEntity method is called!
+2019-04-25 01:51:23 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 02:13:22 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:22 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-25 02:13:22 INFO  Service:81 - Incremented count, current: 1
+2019-04-25 02:13:22 INFO  CacheMap:22 - Component added into cache
+2019-04-25 02:13:22 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:22 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-25 02:13:22 INFO  Service:81 - Incremented count, current: 2
+2019-04-25 02:13:22 INFO  CacheMap:22 - Component added into cache
+2019-04-25 02:13:22 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:22 ERROR Service:97 - Invalid params! Param symbol must be char
+2019-04-25 02:13:22 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:22 ERROR Service:97 - Invalid params! Need parameter string
+2019-04-25 02:13:22 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:22 ERROR Service:97 - Invalid params! Param symbol must be char
+2019-04-25 02:13:39 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:39 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-25 02:13:39 INFO  Service:81 - Incremented count, current: 3
+2019-04-25 02:13:39 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:39 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-25 02:13:39 INFO  Service:81 - Incremented count, current: 4
+2019-04-25 02:13:39 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:39 DEBUG Service:62 - getEntity method is successfully completed
+2019-04-25 02:13:39 INFO  Service:81 - Incremented count, current: 5
+2019-04-25 02:13:39 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:39 ERROR Service:97 - Invalid params! Param symbol must be char
+2019-04-25 02:13:39 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:39 ERROR Service:97 - Invalid params! Need parameter string
+2019-04-25 02:13:39 DEBUG Service:47 - getEntity method is called!
+2019-04-25 02:13:39 ERROR Service:97 - Invalid params! Param symbol must be char
+2019-04-25 02:34:43 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:34:43 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:34:43 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 02:34:43 INFO  CacheMap:22 - Component added into cache
+2019-04-25 02:34:43 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:34:43 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:34:43 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 02:34:43 INFO  CacheMap:22 - Component added into cache
+2019-04-25 02:34:43 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:34:43 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:34:43 INFO  Service:83 - Incremented count, current: 3
+2019-04-25 02:34:43 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:34:43 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 02:34:43 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:34:43 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 02:34:43 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:34:43 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 02:52:02 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:02 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:52:02 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 02:52:02 INFO  CacheMap:22 - Component added into cache
+2019-04-25 02:52:02 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:02 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:52:02 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 02:52:02 INFO  CacheMap:22 - Component added into cache
+2019-04-25 02:52:02 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:02 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:52:02 INFO  Service:83 - Incremented count, current: 3
+2019-04-25 02:52:02 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:02 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 02:52:02 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:02 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 02:52:02 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:02 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 02:52:41 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:41 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:52:41 INFO  Service:83 - Incremented count, current: 4
+2019-04-25 02:52:41 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:41 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:52:41 INFO  Service:83 - Incremented count, current: 5
+2019-04-25 02:52:41 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:41 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:52:41 INFO  Service:83 - Incremented count, current: 6
+2019-04-25 02:52:41 INFO  CacheMap:22 - Component added into cache
+2019-04-25 02:52:41 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:41 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:52:41 INFO  Service:83 - Incremented count, current: 7
+2019-04-25 02:52:41 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:41 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:52:41 INFO  Service:83 - Incremented count, current: 8
+2019-04-25 02:52:41 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:41 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 02:52:41 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:41 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 02:52:41 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:52:41 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 02:53:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:53:06 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:53:06 INFO  Service:83 - Incremented count, current: 9
+2019-04-25 02:53:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:53:06 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:53:06 INFO  Service:83 - Incremented count, current: 10
+2019-04-25 02:53:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:53:06 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:53:06 INFO  Service:83 - Incremented count, current: 11
+2019-04-25 02:53:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:53:06 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:53:06 INFO  Service:83 - Incremented count, current: 12
+2019-04-25 02:53:06 INFO  CacheMap:22 - Component added into cache
+2019-04-25 02:53:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:53:06 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 02:53:06 INFO  Service:83 - Incremented count, current: 13
+2019-04-25 02:53:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:53:06 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 02:53:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:53:06 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 02:53:06 DEBUG Service:49 - getEntity method is called!
+2019-04-25 02:53:06 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 07:56:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 07:56:14 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 07:56:14 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 07:56:14 INFO  CacheMap:22 - Component added into cache
+2019-04-25 07:56:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 07:56:14 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 07:56:14 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 07:56:14 INFO  CacheMap:22 - Component added into cache
+2019-04-25 07:56:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 07:56:14 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 07:56:14 INFO  Service:83 - Incremented count, current: 3
+2019-04-25 07:56:14 INFO  CacheMap:22 - Component added into cache
+2019-04-25 07:56:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 07:56:14 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 07:56:14 INFO  Service:83 - Incremented count, current: 4
+2019-04-25 07:56:14 INFO  CacheMap:22 - Component added into cache
+2019-04-25 07:56:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 07:56:14 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 07:56:14 INFO  Service:83 - Incremented count, current: 5
+2019-04-25 07:56:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 07:56:14 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 07:56:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 07:56:14 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 07:56:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 07:56:14 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 08:01:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:01:46 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:01:46 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 08:01:46 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:01:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:01:46 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:01:46 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 08:01:46 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:01:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:01:46 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:01:46 INFO  Service:83 - Incremented count, current: 3
+2019-04-25 08:01:46 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:01:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:01:46 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:01:46 INFO  Service:83 - Incremented count, current: 4
+2019-04-25 08:01:46 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:01:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:01:46 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:01:46 INFO  Service:83 - Incremented count, current: 5
+2019-04-25 08:01:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:01:46 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 08:01:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:01:46 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 08:01:46 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:01:46 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 08:26:26 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:26:26 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:26:26 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 08:26:26 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:26:26 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:26:26 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:26:26 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 08:26:26 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:26:26 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:26:26 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:26:26 INFO  Service:83 - Incremented count, current: 3
+2019-04-25 08:26:26 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:26:26 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:26:26 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:26:26 INFO  Service:83 - Incremented count, current: 4
+2019-04-25 08:26:26 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:26:26 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:26:26 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:26:26 INFO  Service:83 - Incremented count, current: 5
+2019-04-25 08:26:26 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:26:26 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 08:26:26 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:26:26 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 08:26:26 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:26:26 ERROR Service:99 - Invalid params! Param symbol must be char

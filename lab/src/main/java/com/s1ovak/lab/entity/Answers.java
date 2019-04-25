@@ -7,13 +7,13 @@ import java.util.ArrayList;
 
 @Data
 public class Answers {
-    private ArrayList<Integer> resultList;
+    private ArrayList<Entity> resultList;
 
     public Answers(){
         resultList = new ArrayList<>();
     }
 
-    public void add(Integer value){
+    public void add(Entity value){
         this.resultList.add(value);
     }
 }

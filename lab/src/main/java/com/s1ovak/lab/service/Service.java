@@ -1,20 +1,23 @@
 package com.s1ovak.lab.service;
 
+import com.google.common.collect.BiMap;
+import com.google.common.collect.HashBiMap;
 import com.s1ovak.lab.cache.CacheMap;
 import com.s1ovak.lab.cache.InputParameters;
 import com.s1ovak.lab.counter.Counter;
 import com.s1ovak.lab.entity.Answers;
 import com.s1ovak.lab.entity.Entity;
 import com.s1ovak.lab.entity.InputList;
+import com.s1ovak.lab.entity.StatisticAnswer;
 import com.sun.deploy.util.ArrayUtil;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
 import java.util.function.Predicate;
 import java.util.stream.IntStream;
+import java.util.stream.Stream;
 
 
 @Component
@@ -102,11 +105,70 @@ public class Service {
         Answers answers = new Answers();
 
         list.getParameters().forEach(value -> {
-            char[] chars = value.getString().toCharArray();
-            answers.add(evaluate(boxChar(chars),
-                    (n) -> n == value.getSymbol().charAt(0)));
+            answers.add(getEntity(value.getString(), value.getSymbol()));
         });
         return answers;
+    }
+
+    public Long calculateInputErrors(Answers answers) {
+        Stream<Entity> errorAnswers = answers.getResultList()
+                .stream().filter(value -> value.getErrorMessage() != null
+                );
+
+        return errorAnswers.count();
+    }
+
+    public Integer findMin(Answers answers) {
+        return answers.getResultList()
+                .stream().filter(value -> value.getErrorMessage() == null)
+                .min(Comparator.comparing(Entity::getNumber)).get().getNumber();
+    }
+
+    public Integer findMax(Answers answers) {
+        return answers.getResultList()
+                .stream().filter(value -> value.getErrorMessage() == null)
+                .max(Comparator.comparing(Entity::getNumber)).get().getNumber();
+    }
+
+    public Integer findMostPopular(Answers answers) {
+        Map<Integer, Integer> counters = new HashMap<>();
+
+        Stream<Entity> stream = answers.getResultList().stream()
+                .filter(value -> value.getErrorMessage() == null);
+
+        stream.forEach(value -> {
+            Integer num = value.getNumber();
+            if (counters.containsKey(num)) {
+                counters.replace(num, counters.get(num) + 1);
+            } else {
+                counters.put(num, 1);
+            }
+        });
+
+        Integer maxKey = 0;
+        Integer maxValue = 0;
+        for (Map.Entry entry : counters.entrySet()) {
+            Integer value =(Integer) entry.getValue();
+            if (maxValue < value){
+                maxValue = value;
+                maxKey = (Integer) entry.getKey();
+            }
+        }
+        return maxKey;
+    }
+
+    public StatisticAnswer calculateStatistic(InputList list) {
+        StatisticAnswer statisticAnswer = new StatisticAnswer();
+
+        Answers answers = checkList(list);
+        statisticAnswer.setAnswers(answers);
+        statisticAnswer.setTotalInputAmount(list.getParameters().size());
+        statisticAnswer.setTotalIncorrectInputAmount(this.calculateInputErrors(answers));
+        statisticAnswer.setMinResult(this.findMin(answers));
+        statisticAnswer.setMaxResult(this.findMax(answers));
+        statisticAnswer.setMostPopular(findMostPopular(answers));
+
+        return statisticAnswer;
     }
 
 

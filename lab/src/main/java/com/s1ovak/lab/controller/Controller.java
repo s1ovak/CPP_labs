@@ -3,6 +3,7 @@ package com.s1ovak.lab.controller;
 import com.s1ovak.lab.entity.Answers;
 import com.s1ovak.lab.entity.Entity;
 import com.s1ovak.lab.entity.InputList;
+import com.s1ovak.lab.entity.StatisticAnswer;
 import com.s1ovak.lab.service.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -36,7 +37,7 @@ public class Controller {
 
 
     @PostMapping
-    public Answers check(@RequestBody InputList list){
-        return service.checkList(list);
+    public StatisticAnswer check(@RequestBody InputList list){
+        return service.calculateStatistic(list);
     }
 }
