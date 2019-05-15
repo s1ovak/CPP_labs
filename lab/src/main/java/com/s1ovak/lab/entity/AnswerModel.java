@@ -1,18 +1,28 @@
 package com.s1ovak.lab.entity;
 
-public class Entity {
+import lombok.Data;
+import org.hibernate.annotations.GenericGenerator;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+
+@Data
+public class AnswerModel {
     private String errorMessage;
     private Integer number;
 
-    public Entity() {
+    public AnswerModel() {
     }
 
-    public Entity(String errorMessage) {
+    public AnswerModel(String errorMessage) {
         this.errorMessage = errorMessage;
     }
 
 
-    public Entity(Integer number) {
+    public AnswerModel(Integer number) {
         this.number = number;
     }
 

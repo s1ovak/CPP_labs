@@ -1,49 +1,58 @@
-package com.s1ovak.lab.service;
+package com.s1ovak.lab.service.impl;
 
-import com.google.common.collect.BiMap;
-import com.google.common.collect.HashBiMap;
+import com.s1ovak.lab.cache.Cache;
 import com.s1ovak.lab.cache.CacheMap;
 import com.s1ovak.lab.cache.InputParameters;
 import com.s1ovak.lab.counter.Counter;
-import com.s1ovak.lab.entity.Answers;
-import com.s1ovak.lab.entity.Entity;
-import com.s1ovak.lab.entity.InputList;
-import com.s1ovak.lab.entity.StatisticAnswer;
-import com.sun.deploy.util.ArrayUtil;
+import com.s1ovak.lab.entity.*;
+import com.s1ovak.lab.models.Input;
+import com.s1ovak.lab.models.Output;
+import com.s1ovak.lab.service.InputService;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+
 import java.util.*;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 import java.util.function.Predicate;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 
 @Component
-public class Service {
+public class CalculatingService {
 
-    private static final Logger logger = Logger.getLogger(Service.class);
+    private static final Logger logger = Logger.getLogger(CalculatingService.class);
 
     private Counter counter;
 
     private CacheMap cache;
+    private final Cache futureCache;
+    private final InputService inputService;
+
+    ExecutorService executor = Executors.newSingleThreadExecutor();
 
     @Autowired
-    public Service(CacheMap cache, Counter counter) {
+    public CalculatingService(CacheMap cache, Counter counter, InputService inputService, Cache futureCache) {
         this.cache = cache;
         this.counter = counter;
+        this.inputService = inputService;
+        this.futureCache = futureCache;
     }
 
-    public Entity checkCache(String string, String symbol) {
+    public AnswerModel checkCache(String string, String symbol) {
         return cache.getMap().get(new InputParameters(string, symbol));
     }
 
-    public void addIntoCache(String string, String symbol, Entity entity) {
-        cache.add(new InputParameters(string, symbol), entity);
+    public void addIntoCache(String string, String symbol, AnswerModel answerModel) {
+        cache.add(new InputParameters(string, symbol), answerModel);
     }
 
-    public Entity getEntity(String string, String symbol) {
+    public AnswerModel getEntity(String string, String symbol) {
 
         if (logger.isDebugEnabled()) {
             logger.debug("getEntity method is called!");
@@ -64,13 +73,13 @@ public class Service {
         logger.debug("getEntity method is successfully completed");
         this.increment();
 
-        Entity cacheResult = this.checkCache(string, symbol);
+        AnswerModel cacheResult = this.checkCache(string, symbol);
 
 
         if (cacheResult == null) {
-            Entity entity = this.calculateSymbol(string, symbol);
-            this.addIntoCache(string, symbol, entity);
-            return entity;
+            AnswerModel answerModel = this.calculateSymbol(string, symbol);
+            this.addIntoCache(string, symbol, answerModel);
+            return answerModel;
         }
 
         return cacheResult;
@@ -83,8 +92,8 @@ public class Service {
         logger.info("Incremented count, current: " + counter.getCounter());
     }
 
-    public Entity calculateSymbol(String string, String symbol) {
-        Entity count = new Entity(0);
+    public AnswerModel calculateSymbol(String string, String symbol) {
+        AnswerModel count = new AnswerModel(0);
         char checkedSymbol = symbol.charAt(0);
         for (int i = 0; i < string.length(); i++) {
             if (string.charAt(i) == checkedSymbol) {
@@ -95,23 +104,59 @@ public class Service {
         return count;
     }
 
-    private Entity isError(String msg) {
+    private AnswerModel isError(String msg) {
         logger.error(msg);
-        return new Entity(msg);
+        return new AnswerModel(msg);
     }
 
 
-    public Answers checkList(InputList list) {
+    ///////////////////////////////////////lab 8, asynchronous call
+    public synchronized Answers checkList(InputList list) {
         Answers answers = new Answers();
 
-        list.getParameters().forEach(value -> {
-            answers.add(getEntity(value.getString(), value.getSymbol()));
-        });
+        for(InputParameters value : list.getParameters()) {
+            AnswerModel answer = getEntity(value.getString(), value.getSymbol());
+            answers.add(answer);
+
+            this.inputService.saveValue(new Input(value.getString(), value.getSymbol(),
+                    new Output(answer.getErrorMessage(), answer.getNumber())));
+        };
         return answers;
     }
 
+
+    public Integer getResponseId(InputList list) {
+        Future<Answers> future = this.calculate(list);
+        return this.futureCache.add(future);
+    }
+
+
+    public Answers getAnswers(Integer num){
+        Future<Answers> answersFuture = this.futureCache.getMap().get(num);
+
+        if(answersFuture.isDone()) {
+            try {
+                return answersFuture.get();
+            } catch (InterruptedException | ExecutionException e) {
+                e.printStackTrace();
+            }
+        }
+        return null;
+    }
+
+
+    public Future<Answers> calculate(InputList list) {
+        return executor.submit(() -> {
+            Answers answers = new Answers();
+
+            answers = this.checkList(list);
+            return answers;
+        });
+    }
+    ////////////////////////////////////////////////////////////////////
+
     public Long calculateInputErrors(Answers answers) {
-        Stream<Entity> errorAnswers = answers.getResultList()
+        Stream<AnswerModel> errorAnswers = answers.getResultList()
                 .stream().filter(value -> value.getErrorMessage() != null
                 );
 
@@ -121,19 +166,19 @@ public class Service {
     public Integer findMin(Answers answers) {
         return answers.getResultList()
                 .stream().filter(value -> value.getErrorMessage() == null)
-                .min(Comparator.comparing(Entity::getNumber)).get().getNumber();
+                .min(Comparator.comparing(AnswerModel::getNumber)).get().getNumber();
     }
 
     public Integer findMax(Answers answers) {
         return answers.getResultList()
                 .stream().filter(value -> value.getErrorMessage() == null)
-                .max(Comparator.comparing(Entity::getNumber)).get().getNumber();
+                .max(Comparator.comparing(AnswerModel::getNumber)).get().getNumber();
     }
 
     public Integer findMostPopular(Answers answers) {
         Map<Integer, Integer> counters = new HashMap<>();
 
-        Stream<Entity> stream = answers.getResultList().stream()
+        Stream<AnswerModel> stream = answers.getResultList().stream()
                 .filter(value -> value.getErrorMessage() == null);
 
         stream.forEach(value -> {
@@ -148,8 +193,8 @@ public class Service {
         Integer maxKey = 0;
         Integer maxValue = 0;
         for (Map.Entry entry : counters.entrySet()) {
-            Integer value =(Integer) entry.getValue();
-            if (maxValue < value){
+            Integer value = (Integer) entry.getValue();
+            if (maxValue < value) {
                 maxValue = value;
                 maxKey = (Integer) entry.getKey();
             }
@@ -170,7 +215,6 @@ public class Service {
 
         return statisticAnswer;
     }
-
 
     public static Character[] boxChar(char[] chars) {
         return IntStream.range(0, chars.length)

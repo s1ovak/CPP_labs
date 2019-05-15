@@ -1,22 +1,21 @@
 package com.s1ovak.lab.service;
 
-import com.s1ovak.lab.cache.CacheMap;
-import com.s1ovak.lab.entity.Entity;
+import com.s1ovak.lab.entity.AnswerModel;
+import com.s1ovak.lab.service.impl.CalculatingService;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 
 public class ServiceTest {
 
-    Service service;
+    CalculatingService service;
 
 
 
     @Test
     public void calculateSymbol() {
 
-        Entity expected = service.calculateSymbol("asdjhfjgasfhraa","a");
-        Entity actual = new Entity(4);
+        AnswerModel expected = service.calculateSymbol("asdjhfjgasfhraa","a");
+        AnswerModel actual = new AnswerModel(4);
 
         Assert.assertEquals(expected.getNumber(), actual.getNumber());
 

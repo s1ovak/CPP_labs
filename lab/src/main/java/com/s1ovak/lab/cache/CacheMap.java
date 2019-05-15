@@ -1,6 +1,6 @@
 package com.s1ovak.lab.cache;
 
-import com.s1ovak.lab.entity.Entity;
+import com.s1ovak.lab.entity.AnswerModel;
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Component;
 
@@ -10,23 +10,22 @@ import java.util.HashMap;
 public class CacheMap {
     private static final Logger logger = Logger.getLogger(CacheMap.class);
 
-
-    HashMap<InputParameters, Entity> map = new HashMap<>();
+    HashMap<InputParameters, AnswerModel> map = new HashMap<>();
 
     public CacheMap() {
     }
 
 
-    public void add(InputParameters parameters, Entity entity){
-        map.put(parameters, entity);
+    public void add(InputParameters parameters, AnswerModel answerModel){
+        map.put(parameters, answerModel);
         logger.info("Component added into cache");
     }
 
-    public HashMap<InputParameters, Entity> getMap() {
+    public HashMap<InputParameters, AnswerModel> getMap() {
         return map;
     }
 
-    public void setMap(HashMap<InputParameters, Entity> map) {
+    public void setMap(HashMap<InputParameters, AnswerModel> map) {
         this.map = map;
     }
 }

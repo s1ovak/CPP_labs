@@ -1935,3 +1935,500 @@
 2019-04-25 08:26:26 ERROR Service:99 - Invalid params! Need parameter string
 2019-04-25 08:26:26 DEBUG Service:49 - getEntity method is called!
 2019-04-25 08:26:26 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 08:37:14 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:37:15 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:37:15 INFO  Service:83 - Incremented count, current: 1
+2019-04-25 08:37:15 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:37:15 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:37:15 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:37:15 INFO  Service:83 - Incremented count, current: 2
+2019-04-25 08:37:15 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:37:15 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:37:15 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:37:15 INFO  Service:83 - Incremented count, current: 3
+2019-04-25 08:37:15 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:37:15 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:37:15 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:37:15 INFO  Service:83 - Incremented count, current: 4
+2019-04-25 08:37:15 INFO  CacheMap:22 - Component added into cache
+2019-04-25 08:37:15 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:37:15 DEBUG Service:64 - getEntity method is successfully completed
+2019-04-25 08:37:15 INFO  Service:83 - Incremented count, current: 5
+2019-04-25 08:37:15 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:37:15 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 08:37:15 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:37:15 ERROR Service:99 - Invalid params! Need parameter string
+2019-04-25 08:37:15 DEBUG Service:49 - getEntity method is called!
+2019-04-25 08:37:15 ERROR Service:99 - Invalid params! Param symbol must be char
+2019-04-25 09:12:23 DEBUG ServiceImpl:52 - getEntity method is called!
+2019-04-25 09:12:23 DEBUG ServiceImpl:67 - getEntity method is successfully completed
+2019-04-25 09:12:23 INFO  ServiceImpl:86 - Incremented count, current: 1
+2019-04-25 09:12:23 INFO  CacheMap:22 - Component added into cache
+2019-04-25 09:12:23 DEBUG ServiceImpl:52 - getEntity method is called!
+2019-04-25 09:12:23 DEBUG ServiceImpl:67 - getEntity method is successfully completed
+2019-04-25 09:12:23 INFO  ServiceImpl:86 - Incremented count, current: 2
+2019-04-25 09:12:23 INFO  CacheMap:22 - Component added into cache
+2019-04-25 09:12:23 DEBUG ServiceImpl:52 - getEntity method is called!
+2019-04-25 09:12:23 DEBUG ServiceImpl:67 - getEntity method is successfully completed
+2019-04-25 09:12:23 INFO  ServiceImpl:86 - Incremented count, current: 3
+2019-04-25 09:12:23 INFO  CacheMap:22 - Component added into cache
+2019-04-25 09:12:23 DEBUG ServiceImpl:52 - getEntity method is called!
+2019-04-25 09:12:23 DEBUG ServiceImpl:67 - getEntity method is successfully completed
+2019-04-25 09:12:23 INFO  ServiceImpl:86 - Incremented count, current: 4
+2019-04-25 09:12:23 INFO  CacheMap:22 - Component added into cache
+2019-04-25 09:12:23 DEBUG ServiceImpl:52 - getEntity method is called!
+2019-04-25 09:12:23 DEBUG ServiceImpl:67 - getEntity method is successfully completed
+2019-04-25 09:12:23 INFO  ServiceImpl:86 - Incremented count, current: 5
+2019-04-25 09:12:23 DEBUG ServiceImpl:52 - getEntity method is called!
+2019-04-25 09:12:23 ERROR ServiceImpl:102 - Invalid params! Param symbol must be char
+2019-04-25 09:12:23 DEBUG ServiceImpl:52 - getEntity method is called!
+2019-04-25 09:12:23 ERROR ServiceImpl:102 - Invalid params! Need parameter string
+2019-04-25 09:12:23 DEBUG ServiceImpl:52 - getEntity method is called!
+2019-04-25 09:12:23 ERROR ServiceImpl:102 - Invalid params! Param symbol must be char
+2019-04-25 09:28:20 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:28:20 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:28:20 INFO  ServiceImpl:83 - Incremented count, current: 1
+2019-04-25 09:28:20 INFO  CacheMap:22 - Component added into cache
+2019-04-25 09:28:20 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:28:20 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:28:20 INFO  ServiceImpl:83 - Incremented count, current: 2
+2019-04-25 09:28:20 INFO  CacheMap:22 - Component added into cache
+2019-04-25 09:28:20 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:28:20 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:28:20 INFO  ServiceImpl:83 - Incremented count, current: 3
+2019-04-25 09:28:20 INFO  CacheMap:22 - Component added into cache
+2019-04-25 09:28:20 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:28:20 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:28:20 INFO  ServiceImpl:83 - Incremented count, current: 4
+2019-04-25 09:28:20 INFO  CacheMap:22 - Component added into cache
+2019-04-25 09:28:20 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:28:20 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:28:20 INFO  ServiceImpl:83 - Incremented count, current: 5
+2019-04-25 09:28:20 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:28:20 ERROR ServiceImpl:99 - Invalid params! Param symbol must be char
+2019-04-25 09:28:20 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:28:20 ERROR ServiceImpl:99 - Invalid params! Need parameter string
+2019-04-25 09:28:20 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:28:20 ERROR ServiceImpl:99 - Invalid params! Param symbol must be char
+2019-04-25 09:29:48 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:29:48 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:29:48 INFO  ServiceImpl:83 - Incremented count, current: 6
+2019-04-25 09:29:48 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:29:48 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:29:48 INFO  ServiceImpl:83 - Incremented count, current: 7
+2019-04-25 09:29:48 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:29:48 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:29:48 INFO  ServiceImpl:83 - Incremented count, current: 8
+2019-04-25 09:29:48 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:29:48 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:29:48 INFO  ServiceImpl:83 - Incremented count, current: 9
+2019-04-25 09:29:48 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:29:48 DEBUG ServiceImpl:64 - getEntity method is successfully completed
+2019-04-25 09:29:48 INFO  ServiceImpl:83 - Incremented count, current: 10
+2019-04-25 09:29:48 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:29:48 ERROR ServiceImpl:99 - Invalid params! Param symbol must be char
+2019-04-25 09:29:48 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:29:48 ERROR ServiceImpl:99 - Invalid params! Need parameter string
+2019-04-25 09:29:48 DEBUG ServiceImpl:49 - getEntity method is called!
+2019-04-25 09:29:48 ERROR ServiceImpl:99 - Invalid params! Param symbol must be char
+2019-04-27 03:52:28 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 03:52:28 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 03:52:28 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 03:52:28 INFO  CacheMap:21 - Component added into cache
+2019-04-27 03:52:36 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 03:52:36 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 03:52:36 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 03:55:01 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 03:55:01 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 03:55:01 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 03:55:01 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:06:14 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:06:14 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:06:14 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:06:14 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:14:56 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:14:56 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:14:56 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:14:56 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:18:56 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:18:56 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:18:57 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 04:20:23 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:20:23 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:20:23 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 04:23:30 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:23:30 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:23:30 INFO  CalculatingService:92 - Incremented count, current: 4
+2019-04-27 04:23:58 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:23:58 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:23:58 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:23:58 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:24:33 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:24:33 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:24:33 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 04:29:06 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:29:06 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:29:06 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:29:06 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:32:14 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:32:14 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:32:14 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 04:32:38 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:32:38 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:32:38 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 04:39:09 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:39:09 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:39:09 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:39:09 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:39:35 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:39:35 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:39:35 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 04:40:21 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:40:21 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:40:21 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 04:41:36 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:41:36 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:41:36 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:41:36 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:42:23 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:42:23 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:42:23 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:42:23 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:44:15 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:44:15 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:44:15 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:44:15 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:45:57 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:45:57 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:45:57 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:45:57 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:46:17 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:46:17 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:46:17 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 04:46:37 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:46:37 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:46:37 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 04:48:02 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:48:02 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:48:02 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:48:02 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:48:02 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:48:02 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:48:02 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 04:48:02 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:48:02 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:48:02 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:48:02 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 04:48:02 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:48:02 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:48:02 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:48:02 INFO  CalculatingService:92 - Incremented count, current: 4
+2019-04-27 04:48:02 INFO  CacheMap:21 - Component added into cache
+2019-04-27 04:48:02 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:48:02 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:48:02 INFO  CalculatingService:92 - Incremented count, current: 5
+2019-04-27 04:48:02 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:48:02 ERROR CalculatingService:108 - Invalid params! Param symbol must be char
+2019-04-27 04:48:02 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:48:02 ERROR CalculatingService:108 - Invalid params! Need parameter string
+2019-04-27 04:48:02 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:48:02 ERROR CalculatingService:108 - Invalid params! Param symbol must be char
+2019-04-27 04:48:49 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 04:48:49 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 04:48:49 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 04:48:49 INFO  CacheMap:21 - Component added into cache
+2019-04-27 05:08:08 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:08:08 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:08:08 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 05:08:08 INFO  CacheMap:21 - Component added into cache
+2019-04-27 05:09:57 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:09:57 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:09:57 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 05:10:49 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:10:49 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:10:49 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 05:16:38 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:16:38 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:16:38 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 05:16:38 INFO  CacheMap:21 - Component added into cache
+2019-04-27 05:46:54 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:46:54 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:46:54 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 05:46:54 INFO  CacheMap:21 - Component added into cache
+2019-04-27 05:46:54 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:46:54 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:46:54 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 05:46:54 INFO  CacheMap:21 - Component added into cache
+2019-04-27 05:46:54 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:46:54 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:46:54 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 05:46:54 INFO  CacheMap:21 - Component added into cache
+2019-04-27 05:46:54 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:46:54 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:46:54 INFO  CalculatingService:92 - Incremented count, current: 4
+2019-04-27 05:46:54 INFO  CacheMap:21 - Component added into cache
+2019-04-27 05:46:54 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:46:54 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:46:54 INFO  CalculatingService:92 - Incremented count, current: 5
+2019-04-27 05:46:54 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:46:54 ERROR CalculatingService:108 - Invalid params! Param symbol must be char
+2019-04-27 05:46:54 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:46:54 ERROR CalculatingService:108 - Invalid params! Need parameter string
+2019-04-27 05:46:54 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:46:54 ERROR CalculatingService:108 - Invalid params! Param symbol must be char
+2019-04-27 05:47:13 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:47:13 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:47:13 INFO  CalculatingService:92 - Incremented count, current: 6
+2019-04-27 05:47:16 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:47:16 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:47:16 INFO  CalculatingService:92 - Incremented count, current: 7
+2019-04-27 05:47:19 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:47:19 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:47:19 INFO  CalculatingService:92 - Incremented count, current: 8
+2019-04-27 05:50:23 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:50:23 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:50:23 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 05:50:23 INFO  CacheMap:21 - Component added into cache
+2019-04-27 05:50:46 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:50:46 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:50:46 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 05:50:57 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:50:57 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:50:57 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 05:50:57 INFO  CacheMap:21 - Component added into cache
+2019-04-27 05:52:56 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 05:52:56 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 05:52:56 INFO  CalculatingService:92 - Incremented count, current: 4
+2019-04-27 08:40:16 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 08:40:16 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 08:40:16 INFO  CalculatingService:87 - Incremented count, current: 1
+2019-04-27 08:40:16 INFO  CacheMap:21 - Component added into cache
+2019-04-27 08:43:55 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 08:43:55 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 08:43:55 INFO  CalculatingService:87 - Incremented count, current: 2
+2019-04-27 08:48:43 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 08:48:43 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 08:48:43 INFO  CalculatingService:87 - Incremented count, current: 1
+2019-04-27 08:48:43 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:04:07 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:04:07 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:04:07 INFO  CalculatingService:87 - Incremented count, current: 1
+2019-04-27 09:04:07 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:07:52 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:07:52 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:07:52 INFO  CalculatingService:87 - Incremented count, current: 1
+2019-04-27 09:07:52 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:10:17 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:10:17 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:10:17 INFO  CalculatingService:87 - Incremented count, current: 1
+2019-04-27 09:10:17 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:10:17 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:10:17 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:10:17 INFO  CalculatingService:87 - Incremented count, current: 2
+2019-04-27 09:10:17 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:10:17 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:10:17 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:10:17 INFO  CalculatingService:87 - Incremented count, current: 3
+2019-04-27 09:10:17 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:10:17 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:10:17 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:10:17 INFO  CalculatingService:87 - Incremented count, current: 4
+2019-04-27 09:10:17 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:14:52 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:14:52 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:14:52 INFO  CalculatingService:87 - Incremented count, current: 1
+2019-04-27 09:14:52 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:14:52 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:14:52 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:14:52 INFO  CalculatingService:87 - Incremented count, current: 2
+2019-04-27 09:14:52 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:18:13 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:18:13 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:18:13 INFO  CalculatingService:87 - Incremented count, current: 1
+2019-04-27 09:18:13 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:18:13 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:18:13 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:18:13 INFO  CalculatingService:87 - Incremented count, current: 2
+2019-04-27 09:18:13 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:18:13 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:18:13 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:18:13 INFO  CalculatingService:87 - Incremented count, current: 3
+2019-04-27 09:18:13 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:18:13 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:18:13 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:18:13 INFO  CalculatingService:87 - Incremented count, current: 4
+2019-04-27 09:18:13 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:18:13 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:18:13 DEBUG CalculatingService:68 - getEntity method is successfully completed
+2019-04-27 09:18:13 INFO  CalculatingService:87 - Incremented count, current: 5
+2019-04-27 09:18:13 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:18:13 ERROR CalculatingService:103 - Invalid params! Param symbol must be char
+2019-04-27 09:18:13 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:18:13 ERROR CalculatingService:103 - Invalid params! Need parameter string
+2019-04-27 09:18:13 DEBUG CalculatingService:53 - getEntity method is called!
+2019-04-27 09:18:13 ERROR CalculatingService:103 - Invalid params! Param symbol must be char
+2019-04-27 09:55:15 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 09:55:15 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 09:55:15 INFO  CalculatingService:89 - Incremented count, current: 1
+2019-04-27 09:55:15 INFO  CacheMap:21 - Component added into cache
+2019-04-27 09:55:17 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 09:55:17 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 09:55:17 INFO  CalculatingService:89 - Incremented count, current: 2
+2019-04-27 09:55:20 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 09:55:20 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 09:55:20 INFO  CalculatingService:89 - Incremented count, current: 3
+2019-04-27 09:56:09 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 09:56:09 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 09:56:09 INFO  CalculatingService:89 - Incremented count, current: 4
+2019-04-27 09:57:33 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 09:57:33 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 09:57:33 INFO  CalculatingService:89 - Incremented count, current: 1
+2019-04-27 09:57:33 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:03:18 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 10:03:18 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 10:03:18 INFO  CalculatingService:89 - Incremented count, current: 1
+2019-04-27 10:03:18 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:05:42 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 10:05:42 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 10:05:42 INFO  CalculatingService:89 - Incremented count, current: 2
+2019-04-27 10:05:43 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 10:05:43 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 10:05:43 INFO  CalculatingService:89 - Incremented count, current: 3
+2019-04-27 10:05:43 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:05:43 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 10:05:43 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 10:05:43 INFO  CalculatingService:89 - Incremented count, current: 4
+2019-04-27 10:05:43 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:05:43 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 10:05:43 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 10:05:43 INFO  CalculatingService:89 - Incremented count, current: 5
+2019-04-27 10:05:43 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:05:43 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 10:05:43 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 10:05:43 INFO  CalculatingService:89 - Incremented count, current: 6
+2019-04-27 10:05:43 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:09:18 DEBUG CalculatingService:55 - getEntity method is called!
+2019-04-27 10:09:24 DEBUG CalculatingService:70 - getEntity method is successfully completed
+2019-04-27 10:09:24 INFO  CalculatingService:89 - Incremented count, current: 7
+2019-04-27 10:15:56 DEBUG CalculatingService:57 - getEntity method is called!
+2019-04-27 10:15:56 DEBUG CalculatingService:72 - getEntity method is successfully completed
+2019-04-27 10:15:56 INFO  CalculatingService:91 - Incremented count, current: 1
+2019-04-27 10:15:56 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:19:11 DEBUG CalculatingService:57 - getEntity method is called!
+2019-04-27 10:19:11 DEBUG CalculatingService:72 - getEntity method is successfully completed
+2019-04-27 10:19:11 INFO  CalculatingService:91 - Incremented count, current: 1
+2019-04-27 10:19:11 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:20:14 DEBUG CalculatingService:57 - getEntity method is called!
+2019-04-27 10:20:14 DEBUG CalculatingService:72 - getEntity method is successfully completed
+2019-04-27 10:20:14 INFO  CalculatingService:91 - Incremented count, current: 2
+2019-04-27 10:20:35 DEBUG CalculatingService:57 - getEntity method is called!
+2019-04-27 10:20:35 DEBUG CalculatingService:72 - getEntity method is successfully completed
+2019-04-27 10:20:35 INFO  CalculatingService:91 - Incremented count, current: 3
+2019-04-27 10:21:29 DEBUG CalculatingService:57 - getEntity method is called!
+2019-04-27 10:21:29 DEBUG CalculatingService:72 - getEntity method is successfully completed
+2019-04-27 10:21:29 INFO  CalculatingService:91 - Incremented count, current: 4
+2019-04-27 10:22:20 DEBUG CalculatingService:57 - getEntity method is called!
+2019-04-27 10:22:20 DEBUG CalculatingService:72 - getEntity method is successfully completed
+2019-04-27 10:22:20 INFO  CalculatingService:91 - Incremented count, current: 1
+2019-04-27 10:22:20 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:23:14 DEBUG CalculatingService:57 - getEntity method is called!
+2019-04-27 10:23:14 DEBUG CalculatingService:72 - getEntity method is successfully completed
+2019-04-27 10:23:14 INFO  CalculatingService:91 - Incremented count, current: 1
+2019-04-27 10:23:14 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:27:43 DEBUG CalculatingService:57 - getEntity method is called!
+2019-04-27 10:27:43 DEBUG CalculatingService:72 - getEntity method is successfully completed
+2019-04-27 10:27:43 INFO  CalculatingService:91 - Incremented count, current: 1
+2019-04-27 10:27:43 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:47:26 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 10:47:26 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 10:47:26 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 10:47:26 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:47:40 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 10:47:40 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 10:47:40 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 10:53:28 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 10:53:28 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 10:53:28 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 10:53:28 INFO  CacheMap:21 - Component added into cache
+2019-04-27 10:53:30 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 10:53:30 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 10:53:30 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 11:02:16 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:02:16 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:02:16 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 11:03:39 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:03:39 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:03:39 INFO  CalculatingService:92 - Incremented count, current: 4
+2019-04-27 11:05:26 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:05:26 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:05:26 INFO  CalculatingService:92 - Incremented count, current: 5
+2019-04-27 11:06:10 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:06:10 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:06:10 INFO  CalculatingService:92 - Incremented count, current: 6
+2019-04-27 11:07:04 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:07:04 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:07:04 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 11:07:04 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:07:05 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:07:05 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:07:05 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 11:07:05 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:07:05 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:07:05 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:07:05 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 11:07:05 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:07:05 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:07:05 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:07:05 INFO  CalculatingService:92 - Incremented count, current: 4
+2019-04-27 11:07:06 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:07:06 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:07:06 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:07:06 INFO  CalculatingService:92 - Incremented count, current: 5
+2019-04-27 11:07:06 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:07:35 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:07:35 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:07:35 INFO  CalculatingService:92 - Incremented count, current: 6
+2019-04-27 11:08:28 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:08:28 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:08:28 INFO  CalculatingService:92 - Incremented count, current: 7
+2019-04-27 11:11:21 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:11:21 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:11:21 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 11:11:21 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:13:11 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:13:12 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:13:12 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 11:13:12 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:13:14 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:13:14 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:13:14 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 11:13:38 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:13:38 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:13:38 INFO  CalculatingService:92 - Incremented count, current: 3
+2019-04-27 11:15:20 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:15:20 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:15:20 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 11:15:20 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:15:20 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:15:20 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:15:20 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 11:15:20 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:16:22 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:16:22 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:16:22 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 11:16:22 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:18:49 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:18:49 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:18:49 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 11:18:49 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:18:49 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:18:49 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:18:49 INFO  CalculatingService:92 - Incremented count, current: 2
+2019-04-27 11:18:49 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:21:33 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:21:33 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:21:33 INFO  CalculatingService:92 - Incremented count, current: 1
+2019-04-27 11:21:33 INFO  CacheMap:21 - Component added into cache
+2019-04-27 11:22:12 DEBUG CalculatingService:58 - getEntity method is called!
+2019-04-27 11:22:12 DEBUG CalculatingService:73 - getEntity method is successfully completed
+2019-04-27 11:22:12 INFO  CalculatingService:92 - Incremented count, current: 2
